@@ -1,7 +1,7 @@
-# Mini.1
-Team Satish
-1.Satish
-2.Ganesh
-3.Dilip
-4.Manmadh
-5.Raja
+# Mini.1<br>
+Team Satish<br>
+1.Satish<br>
+2.Ganesh<br>
+3.Dilip<br>
+4.Manmadh<br>
+5.Raja<br>
